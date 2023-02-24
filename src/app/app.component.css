@@ -1,0 +1,14 @@
+.app {
+  border-radius: 4px;
+  margin-top: 20px;
+  padding: 30px;
+  background-color: #fff;
+}
+.alert a{
+  text-decoration: none;
+}
+.alert {
+  display:flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
